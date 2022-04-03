@@ -1,0 +1,45 @@
+
+#main{
+    background-color:chartreuse;
+
+}
+
+#self-intro{
+    width:50px;
+    height:50px;
+    background-color: blue;
+}
+
+#product{
+    width:50px;
+    height:50px;
+    background-color: yellow;
+}
+
+#blog{
+    width:50px;
+    height:50px;
+    background-color: green;
+}
+
+#twitter{
+    width:50px;
+    height:50px;
+    background-color: black;
+
+}
+
+#favorite{
+    width:50px;
+    height:50px;
+    background-color: red;
+
+}
+
+
+.square{
+    background-color: #1fc3cd;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+  }
